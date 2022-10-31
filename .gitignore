@@ -2,3 +2,4 @@ node_modules
 dist
 .ds_store
 bundle
+reporters
